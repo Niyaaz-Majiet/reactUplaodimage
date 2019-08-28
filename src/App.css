@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.pageDiv {
+  margin-top: 20dp;
+}
+
+#outer {
+  width: 500px;
+  height: 200px;
+  background: #ffcccc;
+  margin: 50px auto;
+  overflow: hidden;
+}
+#inner {
+  background: #ffcc33;
+  height: 50px;
+  margin: 50px;
+}
+
+.btn {
+  margin-top: 50dp;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
